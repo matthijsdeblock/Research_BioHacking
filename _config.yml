@@ -3,10 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your (nick)Name
+name: matthijsdeblock/Research_BioHacking
 
 # Short bio or description (displayed in the header)
-description: BioHack Academy blog
+description: For my research as an autonomous designer I am following the BIO Hacking course @waag Society in Amsterdam. 
+In this research I will document my process and progress in the search to use biohacking for my proejcts.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
