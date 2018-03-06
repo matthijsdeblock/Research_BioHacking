@@ -28,20 +28,20 @@ etc
 **Stage 2: Searching for the right mate(s)**
  knew I wanted to give a part of myself to the project, so I decided to do it literally. The idea to copy my breath into a non-living organism was formed and so it was time to start searching for the right way to do this. I knew I didn’t possess the skills to create something at the level I was looking for. I had to test a lot of different things to know what I liked, why i liked it, and why it would support my creativity.
  
-> Conceptual Advancements
->Technological Advancements
-> Biological Advancements
+Conceptual Advancements
+Technological Advancements
+Biological Advancements
 
 
 **Stage 3: Pregnancy**
 
->Recording my breathing patterns
+Recording my breathing patterns
 For 9 months I will track my breath, track my surroundings and track my agenda. All these things are in relation to each other and will be documented. The focus lies on the breath and all the things that surround and influence it. 
 
 WGrowing the Biological Parts for the Non-Living organism
 During these 9 months I will grow the organic parts of the non-living organism. The parts will be 
 
->Creating the digital Parts for the Non-Living organism
+Creating the digital Parts for the Non-Living organism
 Within these 9 months I will create the technical parts of the organism, 
 
 For 9 Months I will create an artificial pregnancy where I track my breath and my surrounding.
